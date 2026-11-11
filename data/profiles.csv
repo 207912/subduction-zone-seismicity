@@ -1,0 +1,6 @@
+id,region,coordinate,start_deg,end_deg,reference_latitude_deg,distance_label
+izu-bonin,Southern Izu-Bonin (Volcano Islands),longitude,135,145,25.5,Distance east from 135 deg E (km)
+tonga,Tonga,longitude,175,-170,-20.5,Distance east from 175 deg E (km)
+java,Java (Sunda Trench),latitude,-15,-5,-10,Distance north from 15 deg S (km)
+south-sandwich,South Sandwich,longitude,-35,-20,-57.5,Distance east from 35 deg W (km)
+central-chile,Central Chile (Peru-Chile Trench),longitude,-75,-65,-32.5,Distance east from 75 deg W (km)
